@@ -4,10 +4,10 @@
     "slug": "musicplayer",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/musicIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/newSplash.jpg",
+      "image": "./assets/splashscreen1.jpg",
       "resizeMode": "cover"
      
     },

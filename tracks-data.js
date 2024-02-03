@@ -4,22 +4,22 @@ export const TRACKS = [
       artist: 'Imagine Dragons',
       albumArtUrl: 'https://i.ytimg.com/vi/7wtfhZwyrcc/maxresdefault.jpg',
       audioUrl:
-        'https://archive.org/details/imaginedragonsbelieveraudio',
+      require('./assets/tracks/music1.mp3'),
     },
     {
-      title: 'Senorita',
-      artist: 'shawn mendes & camila cabello',
+      title: 'Money In The Grave',
+      artist: 'Rick Ross & Drake',
       albumArtUrl:
-        'https://i1.sndcdn.com/artworks-000596770541-fw6dow-t500x500.jpg',
+        'https://th.bing.com/th/id/R.0ad52cb12fc19de64c2c3b6f0c452298?rik=NEoqWApcZjZESQ&pid=ImgRaw&r=0',
       audioUrl:
-        'https://mp3.filmisongs.com/Senorita%20Mp3%20By%20Camila%20Cabello%20and%20Shawn%20Mendes.mp3',
+      require('./assets/tracks/music2.mp3'),
     },
     {
-      title: 'Brown Munde',
-      artist: 'AP-DHILLON',
+      title: 'Levitate',
+      artist: 'Kendrick Lamar',
       albumArtUrl:
-        'https://filmisongs.com/wp-content/uploads/2021/01/BROWN-MUNDE-Song-AP-DHILLON-X-GURINDER-GILL-Ft-SHINDA-KAHLON.jpg',
+        'https://th.bing.com/th/id/OIP.od2-ARVks843PkheKt3b1gHaHa?rs=1&pid=ImgDetMain',
       audioUrl:
-        'https://mp3land.co/vlp/browse.php?u=https://songs6.vlcmusic.com/mp3/org/32376.mp3',
+      require('./assets/tracks/music3.mp3'),
     },
   ];

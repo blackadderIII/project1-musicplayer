@@ -35,3 +35,7 @@ yarn-error.*
 *.tsbuildinfo
 package-lock.json
 package.json
+music1.mp3
+.gitignore
+assets/tracks/music2.mp3
+assets/tracks/music3.mp3

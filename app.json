@@ -9,7 +9,6 @@
     "splash": {
       "image": "./assets/splashscreen1.jpg",
       "resizeMode": "cover"
-     
     },
     "assetBundlePatterns": [
       "**/*"
@@ -21,10 +20,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.blackadderiii.musicplayer"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "blackadderiii",
+    "extra": {
+      "eas": {
+        "projectId": "efcd589b-a210-49de-9199-f6f82160d712"
+      }
     }
   }
 }

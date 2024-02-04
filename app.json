@@ -18,7 +18,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/splashscreen1.png"
+        "foregroundImage": "./assets/musicIcon.png",
+        "backgroundColor":"#fff"
       },
       "package": "com.blackadderiii.musicplayer"
     },

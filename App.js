@@ -72,7 +72,7 @@ export default function App() {
         ref={audioRef}
         source={currentTrack.audioUrl}
         shouldPlay={!pause}
-        isLooping={false}
+        isLooping={true}
       />
       
       <Text style={{alignSelf:"center",bottom:-80,color:"#fff"}}>Developed By BlackadderIII</Text>

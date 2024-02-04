@@ -7,7 +7,7 @@
     "icon": "./assets/musicIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splashscreen1.jpg",
+      "image": "./assets/splashscreen1.png",
       "resizeMode": "cover"
     },
     "assetBundlePatterns": [
@@ -18,8 +18,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/splashscreen1.png"
       },
       "package": "com.blackadderiii.musicplayer"
     },
